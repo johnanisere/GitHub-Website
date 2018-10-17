@@ -30,7 +30,7 @@
 		"now": "^11.4.6",
 		"react-scripts": "2.0.5",
 		"release-rules-peakfijn": "^0.8.0",
-		"semantic-release": "^15.9.16",
+		"semantic-release": "^15.10.3",
 		"semantic-release-git-branches": "^1.2.1",
 		"stylelint": "^9.6.0",
 		"stylelint-config-concentric-order": "^3.4.0",
